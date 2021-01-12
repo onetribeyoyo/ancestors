@@ -18,6 +18,8 @@ Starts with Grandma's first job (when she was 17.)
   <source src="miller-music.mp3" />
 </audio>
 
+From the original note:
+
     "Just a few tunes of
     our favorite songs.
     Please excuse mistakes
