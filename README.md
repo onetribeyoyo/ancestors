@@ -1,5 +1,3 @@
-# Ancestors #
-
 ------
 
 ## Dora Miller Interview from 1981 ##
