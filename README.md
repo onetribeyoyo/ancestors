@@ -1,1 +1,28 @@
-# ancestors
+# Ancestors #
+
+------
+
+## Dora Miller Interview from 1981 ##
+
+<audio controls>
+  <source src="dora-miller_1981.mp3" />
+</audio>
+
+Starts with Grandma's first job (when she was 17.)
+
+------
+
+## Miller Music, December 25th, 1990 ##
+
+<audio controls>
+  <source src="miller-music.mp3" />
+</audio>
+
+    "Just a few tunes of
+    our favorite songs.
+    Please excuse mistakes
+    & sour notes
+      Love
+        Mom"
+
+------
