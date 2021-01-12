@@ -18,11 +18,11 @@ Starts with Grandma's first job (when she was 17.)
 
 From the original note:
 
-    "Just a few tunes of
+    Just a few tunes of
     our favorite songs.
     Please excuse mistakes
     & sour notes
-      Love
-        Mom"
+          Love
+             Mom
 
 ------
