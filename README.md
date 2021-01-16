@@ -8,7 +8,7 @@
 - Starts with Grandma's first job (when she was 17)
 - Grandpa chiming in with lots of details!
 
-## *"Miller Music", December 25th, 1990 ##
+## *"Miller Music"*, December 25th, 1990 ##
 
 <audio controls> <source src="miller-music.mp3" /> </audio>
 
