@@ -1,3 +1,9 @@
+
+
+Note: Large audio/video sources are stored with https://git-lfs.com (so
+not available linked from readme on github.com.)  Clone locally to
+access large src files.
+
 ------
 
 ## Dora Miller Interview from 1981 ##
@@ -53,3 +59,5 @@ From the original note:
 <video height="200" controls>
    <source src="video/1965-05__memorial-day.mp4" />
 </video>
+
+------
